@@ -44,6 +44,7 @@ Edit
 
 ## 🖼️ Demo Preview
 
+https://github.com/user-attachments/assets/9f06147f-92b7-463e-b5c3-09fc25c85862
 
 ---
 
