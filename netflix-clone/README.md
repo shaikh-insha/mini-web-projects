@@ -20,7 +20,7 @@ A simple front-end Netflix landing page clone built using **HTML & CSS** only.
 
 ## 🌐 Preview
 
-(You can deploy it using GitHub Pages or Netlify for a live preview.)
+https://github.com/user-attachments/assets/38a769a0-9c98-47f7-b409-bce40efee0b0
 
 ---
 
