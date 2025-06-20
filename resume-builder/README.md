@@ -39,9 +39,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 📧 findinshashaikh@gmail.com  
 🌐 [GitHub Profile](https://github.com/shaikh-insha)
 
----
-
-![image](https://github.com/user-attachments/assets/0b84caaf-f463-4dd3-beb1-36de911297c7)
-
-
 _“Build your resume, build your future.”_ 🚀
